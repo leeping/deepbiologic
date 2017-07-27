@@ -6,3 +6,5 @@ While tools like DeepChem provide powerful open source tools for designing small
 Nevertheless, we believe that there is strong room to improve the open source tooling in this area, and we are open to suggestions for doing so. Please raise issues with suggestions!
 
 Contributions of code and initial scripts for getting off the ground very welcome! In this early stage of the project, gathering useful code without strong structure is fine. We will refactor as code mass grows :)
+
+This is a test message
